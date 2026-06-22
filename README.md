@@ -1,5 +1,4 @@
-# Logica 5 - Aplicação de Leitura e Gravação de Dados
-
+# Logica 5 - Aplicação de Leitura e Gravação de Dados Marcelle & Leandro Mendes
 Uma aplicação Python interativa para ler, gravar e gerenciar dados de usuários em múltiplos formatos de arquivo.
 
 ## 📋 Descrição
